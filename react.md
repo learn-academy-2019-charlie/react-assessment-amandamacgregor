@@ -81,10 +81,10 @@ They are class-based components and have their own state defined in their constr
  
  //Googled Answer
  
-<input type="password">
-<input type="button">
-<input type="submit">
-<input type="image">
+input type="password">
+input type="button">
+input type="submit">
+input type="image">
  
  
  #### 7. How would you explain state to a friend who doesn't know code?
